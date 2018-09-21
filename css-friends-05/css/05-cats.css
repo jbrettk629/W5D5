@@ -1,1 +1,35 @@
 /* PHASE 5: Cats */
+
+.content-header {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  height: 200px;
+  background-position: top;
+  background-size: cover;
+  background-image: url("/Users/appacademy/Desktop/W5D5/css-friends-05/images/cats.jpg");
+  backgr
+}
+
+.content-header h2 {
+  position: absolute;
+  font-size: 36px;
+  color: white;
+  bottom: 20px;
+  right: 375px;
+  text-shadow: #000 0 0 10px;
+  line-height: 1
+}
+
+.content-header button {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: lightgrey;
+  font-size: 14px;
+  border: 1px solid black;
+  border-radius: 10%
+  
+  
+}
