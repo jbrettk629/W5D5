@@ -10,7 +10,7 @@ class Lamp {
 
 const turnOn = function() {
    console.log("Turning on " + this.name);
-}
+};
 
 const lamp = new Lamp();
 
